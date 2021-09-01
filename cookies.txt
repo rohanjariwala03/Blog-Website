@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.refersion.com	TRUE	/	FALSE	1999999999	__cfduid	df786c4daefdfcd97ea19ec51e098fe131600398877
+webflow.refersion.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

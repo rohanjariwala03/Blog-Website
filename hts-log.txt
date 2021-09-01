@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 17 Sep 2020 23:15:47 at http://moon-template.webflow.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://moon-template.webflow.io/ -O1 "C:\My Web Sites\az" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:15:47	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link moon-template.webflow.io/robots.txt (from primary/primary)
+23:15:55	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link moon-template.webflow.io/categories/travel (from moon-template.webflow.io/)
+23:15:55	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link moon-template.webflow.io/posts/coffee-sugar-chicory-seasonal-espresso-barista-americano (from moon-template.webflow.io/)
+23:16:00	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link moon-template.webflow.io/posts/half-and-half-variety-milk-viennese-body-cappuccino (from moon-template.webflow.io/)
+23:16:00	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link moon-template.webflow.io/posts/cafe-au-lait-turkish-doppio-ristretto (from moon-template.webflow.io/)
+23:16:01	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link moon-template.webflow.io/categories/art (from moon-template.webflow.io/)
+23:16:01	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link moon-template.webflow.io/categories/tech (from moon-template.webflow.io/)
+23:16:01	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link moon-template.webflow.io/categories/travel (from moon-template.webflow.io/)
+23:16:01	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link moon-template.webflow.io/posts/coffee-sugar-chicory-seasonal-espresso-barista-americano (from moon-template.webflow.io/)
+23:16:01	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link moon-template.webflow.io/posts/half-and-half-variety-milk-viennese-body-cappuccino (from moon-template.webflow.io/)
+23:16:01	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link moon-template.webflow.io/posts/cafe-au-lait-turkish-doppio-ristretto (from moon-template.webflow.io/)
+23:16:01	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link moon-template.webflow.io/categories/art (from moon-template.webflow.io/)
+23:16:01	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link moon-template.webflow.io/categories/tech (from moon-template.webflow.io/)
+23:16:02	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link moon-template.webflow.io/categories/travel (from moon-template.webflow.io/)
+23:16:02	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link moon-template.webflow.io/posts/coffee-sugar-chicory-seasonal-espresso-barista-americano (from moon-template.webflow.io/)
+23:16:02	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link moon-template.webflow.io/posts/half-and-half-variety-milk-viennese-body-cappuccino (from moon-template.webflow.io/)
+23:16:02	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link moon-template.webflow.io/posts/cafe-au-lait-turkish-doppio-ristretto (from moon-template.webflow.io/)
+23:16:02	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link moon-template.webflow.io/categories/art (from moon-template.webflow.io/)
+23:16:02	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link moon-template.webflow.io/categories/tech (from moon-template.webflow.io/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 33 links scanned, 14 files written (429249 bytes overall), 14 files updated [251170 bytes received at 16744 bytes/sec], 265214 bytes transferred using HTTP compression in 10 files, ratio 27%, 4.1 requests per connection
+(7 errors, 12 warnings, 0 messages)
